@@ -1,0 +1,805 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectBookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectBookStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\animate.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\main.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\main.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\404\\404.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\cart\\one.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\cart\\one.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\cart\\three.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\cart\\three.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\cart\\two.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\cart\\two.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\girl1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\girl3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\iframe1.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\iframe2.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\iframe3.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\iframe4.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\img-02.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\img-02.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\logo.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\map.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\new.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product4.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product5.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\product6.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\sale.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product10.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product11.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product12.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product7.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product8.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\images\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\images\\shop\\product9.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\contact.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\main.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\1LayoutBookStore\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\1LayoutBookStore\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\css\\app.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\css\\app.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\css\\app.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\js\\app.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\app.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\LayoutAdmin\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\app.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\001.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\001.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\002.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\002.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\003.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\003.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\004.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\004.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\005.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\005.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\006.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\006.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\007.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\007.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\008.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\008.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\009.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\009.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\010.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\010.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\011.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\011.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\012.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\012.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\013.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\013.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\014.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\014.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\015.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\015.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\016.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\016.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\017.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\017.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\018.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\018.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\019.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\019.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images1\\020.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images1\\020.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\001.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\001.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\002.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\002.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\003.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\003.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\004.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\004.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\005.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\005.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\006.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\006.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\007.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\007.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\008.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\008.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\009.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\009.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\010.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\010.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\011.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\011.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\012.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\012.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\013.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\013.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\014.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\014.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\015.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\015.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\016.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\016.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\017.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\017.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\018.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\018.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\019.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\019.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\ProductImages\\Images\\020.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Images\\020.png"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ThietKeWeb\\BTLNhom10\\BTLNhom10_N01\\ProjectBookStore\\ProjectBookStore\\ProjectBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectBookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectBookStore.props",
+      "PackagePath": "build\\ProjectBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectBookStore.props",
+      "PackagePath": "buildMultiTargeting\\ProjectBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectBookStore.props",
+      "PackagePath": "buildTransitive\\ProjectBookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
